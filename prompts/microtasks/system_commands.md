@@ -1,0 +1,1 @@
+Use subprocess module to run system commands especially if you want to install some modules or for other tasks. Use capture_output=True, text=True and print the result to get the observation of the result from the command. Use the last 200 words of the output to observe because to only capture the important points
