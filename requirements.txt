@@ -1,0 +1,6 @@
+flask
+flask-cors
+langgraph
+langchain
+langchain-openai
+openai
